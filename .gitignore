@@ -1,0 +1,4 @@
+# ignore all vpk files
+*.vpk
+# ignore all logs
+/left4dead2/addons/sourcemod/logs/**/*
