@@ -25,3 +25,5 @@ pokemontower
 sirocco
 buenosaires2
 echo
+DeathAbove
+templeruins
